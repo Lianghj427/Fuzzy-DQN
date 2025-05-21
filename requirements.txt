@@ -1,0 +1,5 @@
+torch>=1.9.0
+gymnasium>=0.29.0
+numpy>=1.21.0
+scikit-fuzzy>=0.4.2
+matplotlib>=3.4.3
