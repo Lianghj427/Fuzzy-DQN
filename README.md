@@ -46,7 +46,7 @@ The training process will display status information every 10 episodes, includin
 ## Performance Comparison and Analysis
 The following figure shows the performance comparison between traditional DQN and Fuzzy DQN in the CartPole-v1 environment:
 
-![算法性能对比](avg_reward_comparison.png)
+![Performance comparision](avg_reward_comparison.png)
 
 From the performance comparison chart, we can observe the following key points:
 
